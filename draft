@@ -1,0 +1,8 @@
+importjava.util.*;
+Public class ticket{
+  Void buy(){
+  }
+
+
+
+}
